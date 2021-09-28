@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/vishalbandre/web-camera/issues"
   },
-  "homepage": "https://github.com/vishalbandre/web-camera#readme"
+  "homepage": "https://github.com/vishalbandre/web-camera#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
 }

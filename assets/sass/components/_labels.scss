@@ -1,0 +1,20 @@
+.caption {
+    @include caption(12vh);
+    font-family: $font-thin;
+}
+
+.caption-larger {
+    @include caption(12.5vh);
+}
+
+.caption-large {
+    @include caption(6.5vh);
+}
+
+.caption-medium {
+    font-size: 5.5vh;
+}
+
+.caption-small {
+    font-size: 3.5vh;
+}

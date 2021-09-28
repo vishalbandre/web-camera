@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Camera API usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vishalbandre/web-camera.git"
+  },
+  "keywords": [
+    "Web",
+    "Camera",
+    "Camera",
+    "API"
+  ],
+  "author": "Vishal Bandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalbandre/web-camera/issues"
+  },
+  "homepage": "https://github.com/vishalbandre/web-camera#readme"
+}
